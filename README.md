@@ -13,4 +13,4 @@ There are so many resources out there to learn about Visual Odometry / Visual-In
 ## List of VO/VIO/SLAM algorithms
 A more up-to-date list of VO / VIO / SLAM algorithms (credit to [kafendt/List-of-SLAM-VO-algorithms](https://github.com/kafendt/List-of-SLAM-VO-algorithms) for the original list):
 
-- [List of VO/VIO/SLAM algorithms](https://github.com/hoangthien94/Another_VO_SLAM_List/blob/master/Github_SLAM_list.pdf)
+- [List of VO/VIO/SLAM algorithms, rendered in nbviewer](https://nbviewer.jupyter.org/github/hoangthien94/Another_VO_SLAM_List/blob/master/Github_SLAM_list.pdf)
