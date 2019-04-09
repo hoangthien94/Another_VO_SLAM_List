@@ -9,3 +9,8 @@ There are so many resources out there to learn about Visual Odometry / Visual-In
 | OpenSLAM/awesome-SLAM-list | [Link](https://github.com/OpenSLAM/awesome-SLAM-list) | A list of tutorials, papers, datasets on VO/SLAM|
 | xinghaochen/awesome-hand-pose-estimation | [Link](https://github.com/xinghaochen/awesome-hand-pose-estimation) | A curated list of related resources for hand pose estimation|
 | YoujieXia/Awesome-SLAM |[Link](https://github.com/YoujieXia/Awesome-SLAM) | A curated list of resources relevant to SLAM/VO on GitHub, including those on the PC end, the mobile end and some learner-friendly tutorials |
+
+## List of VO/VIO/SLAM algorithms
+A more up-to-date list of VO / VIO / SLAM algorithms (credit to [kafendt/List-of-SLAM-VO-algorithms](https://github.com/kafendt/List-of-SLAM-VO-algorithms) for the original list):
+
+- [List of VO/VIO/SLAM algorithms](https://github.com/hoangthien94/Another_VO_SLAM_List/blob/master/Github_SLAM_list.pdf)
