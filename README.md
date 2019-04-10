@@ -19,4 +19,4 @@ A more up-to-date list of VO / VIO / SLAM algorithms (credit to [kafendt/List-of
 ## Good read
 - [SLAM at a glance.](https://blog.cometlabs.io/teaching-robots-presence-what-you-need-to-know-about-slam-9bf0ca037553)
 - [PhD Thesis by the author of ORB-SLAM.](https://zaguan.unizar.es/record/60871/files/TESIS-2017-027.pdf)
-- [A thorough explaination of the structure of ORB-SLAM2 code (from chapter 3).](https://zaguan.unizar.es/record/60871/files/TESIS-2017-027.pdf)
+- [A thorough explaination of the structure of ORB-SLAM2 code (from chapter 3).](http://robotics.ee.uwa.edu.au/theses/2017-UnderwaterSLAM-Kahlefendt.pdf)
